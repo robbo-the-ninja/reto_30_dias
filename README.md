@@ -1,4 +1,4 @@
-<img width="1659" height="372" alt="image" src="https://github.com/user-attachments/assets/12254b32-881b-4ff6-8038-61b3c4510509" /># 📊 reto_30_dias
+# 📊 reto_30_dias
 ## 30 días, 30 proyectos
 En este repositorio subiré los cuadernos y enlaces de los proyectos diarios que estaré desarrollando por 30 días. Así es, un proyecto por día. El comienzo ha sido el día 4 de noviembre de 2025.
 
